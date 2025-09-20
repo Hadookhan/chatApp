@@ -1,4 +1,4 @@
-from app import *
+from frontend.app import *
 
 def main():
     createApp()
