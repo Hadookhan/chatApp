@@ -1,5 +1,5 @@
 /.github
-/venv
-/requirements.txt
+/venv/
+requirements.txt
 /backend
-/frontend/__pychache__
+/frontend/__pychache__/
